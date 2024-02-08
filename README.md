@@ -16,7 +16,8 @@ Go-RestfulAPI is a simple RESTful API implemented in Go.
    ```bash
    git clone https://github.com/nkouki98/Go-RestfulAPI.git
 
-3. **Build & Run 
+3. **Build & Run**:
+   ```bash 
    cd Go-RestfulAPI
    go build
    ./Go-RestfulAPI
